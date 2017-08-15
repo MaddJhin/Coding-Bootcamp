@@ -1,0 +1,49 @@
+	h1 {
+   		text-align: center;
+	}
+
+	p.red {
+		color: red;
+	}
+
+	p.blue {
+		color: blue;
+	}
+
+	p.green {
+		color: green;
+	}
+
+	p.big {
+		font-size: 30px;
+	}
+
+	p.tiny {
+		font-size: 8px;
+	}
+
+	p.centered {
+		text-align: center;
+	}
+
+	p.bolded {
+		font-weight: bold;
+	}
+
+	p.font {
+		font-family: verdana;
+	}
+
+	p.multiple {
+		font-size: 24px;
+		color: orange;
+		font-weight: bold;
+	}
+
+	p.styledFont {
+		color: green;	
+	}
+
+	#styledImage {
+		border: 6px solid orange;
+	}

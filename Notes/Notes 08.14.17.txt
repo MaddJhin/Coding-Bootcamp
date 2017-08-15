@@ -1,0 +1,27 @@
+Notes: 8-14-17
+
+August 16th 8:30pm Church St
+
+Command Line 
+pwd
+print working directory
+
+cd {directory name}
+change directory
+
+mkdir {name} - Make directory (creates folder )
+history - show current commands
+touch {name[.extension]} - make a file
+rm {file/directory} - remove
+help {Command} - lists command documentation
+
+lynx text based browser(for visually impared)
+
+
+To Do:
+    practice typing on typing.io
+
+Asssignment:
+    It will be slacked
+    Pull request for repo can be done through GitHub, all else through the comand line interface (CLI)
+    

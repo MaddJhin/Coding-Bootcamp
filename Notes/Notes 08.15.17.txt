@@ -1,0 +1,38 @@
+Notes: 8/15/17
+
+To Do: 
+More Practice with coding. Spend a few hours practicing code. typing.io/ vids/ cli/ etc.
+
+Important Common Tags
+Doctypes tells what html version you are using
+
+Headings:
+<h1></h1>   Heading (largest heading) should only be one in a page
+<h2></h2>   Heading 2 (Next largest heading)
+<h3></h3>   Heading 3 etc
+
+Containers
+<html></html>   Whraps the entire page. There is only ever one in a page
+<head></head>   Wraps the header of the page. Contains everythign that dictates how your page is rendered. Nothing in the head element will be seen on the page
+<body></body>   Wraps the main content. 
+<div></div>     Logical Containers
+<p></p>         wraps individual paragraphs
+
+<strong>    bold
+<em>        emphasis
+<img>       Images
+<a href>    hyperlink reference
+<li>        list items 
+<title>     browser tab title. Goes in the head
+<br>        line break
+<table>     tables
+<!-- -->    comments
+
+All html tags are listed here: http://www.w3schools.com/tags/
+
+Common UI Form Elements
+
+<form>
+<input>
+
+
