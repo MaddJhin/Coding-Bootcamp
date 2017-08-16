@@ -1,0 +1,16 @@
+Notes 008.16.17
+
+Positioning
+    Static (defult) 
+    Relative - to the original static position. It will first calculate where
+    the element would have been, then moves it relative to that position. 
+
+    Absolute - positioned relative to nearest positioned ancestor
+        If the ancestor is not relative, child positioned absolutely 
+        will be fixed to the browser.
+    
+    Fixed - Fixed to the viewport
+
+
+URL - uniform resource locator
+

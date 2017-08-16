@@ -36,3 +36,16 @@ Common UI Form Elements
 <input>
 
 
+clearfix hack
+When an element is overflowing from a div it's neccessary to use a 
+
+.clearfix::after {
+        conetn: "";
+        display: block;
+        clear: both;
+}
+
+For more on floats: css-tricks 
+
+Git to add and commit changes in CLI
+    git commit -am message "message"
