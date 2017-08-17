@@ -1,0 +1,29 @@
+Notes 08.17.17:
+
+Diference between sections and div: nothing, purely semantic
+
+
+Container example
+
+    <header>
+    <nav>
+    <sections>    
+    <article>
+    <aside>
+    <footer>
+    <details>
+    <summary>
+
+    More on w3schools.com HTML5 Semantic Elements
+
+Features
+    canisue.com allows to figure out if we can use elements in code across different browsers without adding backwards compatability. 
+    If higher than 95% then there is no problem. 
+
+Classes vs. IDs
+
+    Classes are applied across multiple instances, but IDs are unique and should never repeat. 
+
+Content Deliver Network CDN
+
+    Bootstrap is a CDN. 
