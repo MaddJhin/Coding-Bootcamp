@@ -1,0 +1,21 @@
+Notes: 08.21.17
+
+JavaScript
+
+Datatypes
+    Only three types:
+        Bolean
+        Number
+        String
+
+    Types can be compared to each other and converted with "="
+
+    Best Practice: When comparing vars using == put variable second
+        Example: Do: if(13 == number) Never: if(number == 13)
+        This is done so that you do not accidentally overide a variable 
+        by using only "=".  
+        Called the Joda condition
+
+    Triple Equal (===) compares type and value. 
+
+    In java, stings take presedence over math. To sum numbers, it is necessary to parseint(). 
