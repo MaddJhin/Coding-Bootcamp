@@ -1,0 +1,25 @@
+Notes: 08.23.17
+
+Objects:
+
+Syntax
+
+    To Make:
+    var object = {
+        "property" : pro pertyValue,
+        "property" : propertyValue,
+        propertyArray =[
+           arrayValue,
+           arrayValue 
+        ]
+    }
+
+    To Access:
+
+    Normal
+    object.property
+    
+    When property has special characters
+    object["property"]
+
+    
