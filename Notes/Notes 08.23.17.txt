@@ -22,4 +22,15 @@ Syntax
     When property has special characters
     object["property"]
 
+    Iterating through properties in an object
     
+        Object.keys(qBank).forEach(function(key){
+        var answer = confirm(qBank[key][0]);
+        if (answer == qBank[key][1])
+        {
+            alert("Right!");
+        }
+        else{
+            alert("Wrong");
+        }
+    });
