@@ -1,0 +1,17 @@
+Notes 08.28.17
+
+Topic Review: 
+    Still Challenging or Fuzzy
+        Objects with Jquery
+        Combining CSS Floats and Positioning
+
+    Specific Questions
+        How do you reset a DOM?
+
+
+Timers:
+    Calling methods inside timer functions
+        You must wrap inside an annonimous functions
+        Otherwise, object resets to window
+
+        

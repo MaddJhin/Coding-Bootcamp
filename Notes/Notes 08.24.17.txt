@@ -1,0 +1,30 @@
+Notes 08.24.17:
+
+DOM Manipulaiton
+
+    It's possible to directly write into elements. 
+    If <tags></tags> are added, it will add the tag.
+
+
+    Global variables = tied to the window object
+
+
+JQuery
+
+    css selecter (also known as an x path)
+    JQuery by default support chaining
+    It must be loaded
+        Error message when not loaded "$ is not defined"
+    
+
+    Ready Function
+    $(document).ready(function(){
+            
+        })
+
+    Always wrap Jquery in ready function. It waits for the DOM to be ready to look for elements
+    Only Exeption: functions that you want to call in console.log()
+    
+        
+
+
