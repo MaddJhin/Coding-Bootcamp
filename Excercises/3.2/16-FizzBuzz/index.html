@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+
+    function CheckPrime(number) {
+        if (number <= 1){
+            return false;
+        }
+        else if (number <= 3){
+            return true;
+        }
+        
+        var i = 4;
+        while(i < number){
+            if(number % i == 0){
+                return false;
+            }
+
+            if (i == number){
+                return true;
+            }
+            else{
+                i++;
+            }
+        }
+        return true;
+    }
+
+</script>
+</html>
