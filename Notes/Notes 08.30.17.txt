@@ -1,0 +1,29 @@
+
+
+Declarations
+
+    Functions
+        function myFunction (){
+
+        }
+
+        var myFunction = function(){
+
+        }
+
+        var myFunction = () =>{
+            
+        }
+
+    variable Declarations
+
+        const
+            will trow an error if a var is redeclared with same name 
+
+            Example (this would trow an error)
+                const something = 0;
+                var something = 1;                    
+
+
+        let = does not bind to this
+            great to use inside loops
