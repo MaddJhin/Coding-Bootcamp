@@ -1,0 +1,7 @@
+Notes for 09.21.17:
+
+Nodejs
+
+process.argv    
+    [0] - reserved for node file path
+    [1] - reserved for path of the file being run
