@@ -1,0 +1,17 @@
+Notes 09.22.17:
+
+    Structure of Node:
+        Nodejs 
+            basic language
+        Modules
+            Packages built on nodejs
+
+
+    Error Handling
+        Important to trow errors in order to know exactly when the error occurs. 
+        Basic error if statement (error argument predfined like events in anonymous event functions)
+        function(error) {
+            if (error) {
+                trow error;
+            }
+        }
