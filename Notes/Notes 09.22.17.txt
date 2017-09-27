@@ -12,6 +12,15 @@ Notes 09.22.17:
         Basic error if statement (error argument predfined like events in anonymous event functions)
         function(error) {
             if (error) {
-                trow error;
+                throw error;
             }
         }
+
+    For Homework
+    ********MUST HAVE PACKAGE.JSON***********
+
+    Refractoring
+        Pull out large blocks of code and separate them into smaller blocks on separate files. 
+        Best practice ~150 lines of code 
+    
+    
