@@ -1,0 +1,38 @@
+
+Things To Do Before an Interview
+    Research the company
+        google alert news
+
+Initial Questions:
+
+    1 Tell Me About Yourself (This should be read as Why should I hire you? What do you bring to this position from your past experience and education?)
+    2 What are your career goals? (Think about this question as a way to tell an employer how you would perform as a developer and be realistic about where you are at in your career right now.) 
+    3 Tell me about your web development experience and what qualities you possess that help you in this role.
+
+    Think about best fit
+        Two way street - how do you fit with the company and how does the company fit with you.
+        Help them to picture me working there
+
+    Interview the interviewer
+        Not general question
+        Look at mission, motto
+        Show that you know them and the position
+
+    Add ancillary skills to pitch so that a title doesn't box you in
+    Demonstrate commitment to the craft (I've been doing it for a while so it's not a phase)
+
+    Remember body language
+    Confident speaking - Direct but not forceful
+
+    Note: Certificate not certification
+
+Situational Question:
+
+    1 Tell us about a time that you came upon a challenge on a recent project or with a coworker.
+    2 What role do you typically play in a team?
+    3 What led you to coding?
+
+
+
+
+
